@@ -1,0 +1,39 @@
+{
+  "blocks":[
+    {
+      "name": "section",
+      "modificators": [
+        {
+          "group": "type",
+          "items": ["footer","top-line"]
+        },
+        "big"
+      ],
+      "elements": [
+        {
+          "name": "center"
+        }
+      ]
+    },
+    {
+      "name": "filter",
+      "elements":[
+        "country",
+        "per-page",
+        "view",
+        {
+          "name":"view-tiles",
+          "modificators":[
+            "active"
+          ]
+        },
+        {
+          "name":"view-list",
+          "modificators":[
+            "active"
+          ]
+        }
+      ]
+    }
+  ]
+}
