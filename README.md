@@ -6,7 +6,7 @@ Simply execute index.js with arguments.
  $ node index.js input path/to/output
  ```
 where input is a json file like:
- ```json
+ ```
   {
     "blocks":[ //Array of all blocks
       "wrapper", //Block can be just a string
