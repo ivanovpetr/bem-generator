@@ -1,6 +1,6 @@
-#Bem-Generator
+# Bem-Generator
 CLI that generates bem file structure based on input file; 
-#Usage
+# Usage
 Simply execute index.js with arguments. 
  ```bash
  $ node index.js input path/to/output
